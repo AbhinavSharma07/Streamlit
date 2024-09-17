@@ -1,0 +1,25 @@
+name: text-to-image-generator
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11  # Version of Python
+  - pip  # Install pip package manager
+  - pytorch=2.0  # Version of PyTorch
+  - torchvision=0.15  # PyTorch's computer vision library
+  - cudatoolkit=11.7  # For GPU support, if using CUDA (modify for specific hardware setup)
+  - transformers  # For CLIP model from Hugging Face
+  - matplotlib  # For plotting generated images
+  - numpy  # For numerical computations
+  - pillow  # For image handling and manipulation
+  - tqdm  # For progress bars during training
+
+  # Additional pip packages (installed via pip)
+  - pip:
+      - torch
+      - torchvision
+      - transformers
+      - matplotlib
+      - numpy
+      - pillow
+      - tqdm
