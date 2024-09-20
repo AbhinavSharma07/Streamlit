@@ -1,0 +1,7 @@
+torch==2.0.1  # Ensure compatibility with CUDA
+transformers==4.28.0  # For CLIP and Stable Diffusion models
+diffusers==0.14.0  # For Stable Diffusion pipeline
+Pillow==9.5.0  # For image handling and saving
+numpy==1.23.5  # General numerical operations
+accelerate==0.19.0  # Hugging Face’s model acceleration
+scipy==1.10.1  # For mathematical operations
