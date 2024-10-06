@@ -57,8 +57,3 @@ Welcome to the **Comprehensive Streamlit Application**! This application is desi
 - **Expensive Computation Example**: Demonstrate caching with a simulated time-consuming function.
 - **Session State Example**: Implement a counter that persists across interactions.
 
-## Installation
-
-### Prerequisites
-- **Python 3.7 or higher**: Ensure you have Python installed. You can download it from [here](https://www.python.org/downloads/).
-
