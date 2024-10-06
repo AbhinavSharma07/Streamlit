@@ -50,7 +50,7 @@ x = np.linspace(0, 10, 100)
 y = np.sin(x) * age  # Using age from the sidebar to make the plot interactive
 
 fig, ax = plt.subplots()
-ax.plot(x, y)
+ax.plot(x, y)        
 ax.set_title(f"Sine Wave Modulated by Age ({age})")
 st.pyplot(fig)
 
@@ -59,4 +59,4 @@ st.subheader("Random Data Table")
 st.write(data.head())
 
 # Footer
-st.write("Thanks for exploring this app!")
+st.write("Thanks for exploring this app!") 
