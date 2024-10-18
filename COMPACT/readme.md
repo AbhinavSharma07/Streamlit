@@ -9,12 +9,4 @@ This **Streamlit** application allows users to upload a CSV file, visualize data
 - **Interactive Plotting:** Visualize data using interactive scatter plots with Plotly.  
 - **Model Training:** Train and evaluate Linear Regression and KNN models using selected features.
 
-## Installation 💻
-
-To run the app locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/AbhinavSharma07/your-repository-name.git
-   cd your-repository-name
 
