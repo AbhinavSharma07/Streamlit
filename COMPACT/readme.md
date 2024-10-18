@@ -20,6 +20,7 @@ scikit-learn
 
 ## Example Code :
 
+'''
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -62,3 +63,4 @@ if file:
 
         st.write("Linear Regression Score:", lr_score)
         st.write("KNN Accuracy:", knn_score)
+'''
