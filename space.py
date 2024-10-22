@@ -1,6 +1,6 @@
 import torch
 from diffusers import StableDiffusionPipeline
-from transformers import CLIPProcessor, CLIPModel
+from transformers import CLIPProcessor, CLIPModel 
 from torch.optim import Adam
 import numpy as np
 
