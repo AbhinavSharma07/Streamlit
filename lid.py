@@ -1,6 +1,6 @@
 """
 torch==2.0.0+cu118
-torchvision==0.15.1+cu118
+torchvision==0.15.1+cu118 
 torchaudio==2.0.1+cu118
 transformers==4.30.0
 diffusers==0.19.0
