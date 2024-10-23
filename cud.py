@@ -2,7 +2,7 @@ import os
 import torch
 from diffusers import StableDiffusionPipeline
 from PIL import Image
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 # Initialize the Stable Diffusion pipeline
 def initialize_pipeline(model_id="CompVis/stable-diffusion-v1-4", device="cuda"):
