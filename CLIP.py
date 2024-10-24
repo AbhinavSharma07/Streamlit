@@ -2,7 +2,7 @@ import torch
 from diffusers import StableDiffusionPipeline, DPMSolverMultistepScheduler
 from transformers import CLIPProcessor, CLIPModel
 from PIL import Image
-
+ 
 # Load the Stable Diffusion pipeline
 pipe = StableDiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4")
 pipe.to("cuda")
