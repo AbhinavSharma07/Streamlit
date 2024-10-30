@@ -1,4 +1,3 @@
-
 import torch
 from torch import autocast
 from transformers import CLIPTextModel, CLIPTokenizer
