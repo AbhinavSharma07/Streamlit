@@ -1,4 +1,4 @@
-
+'
 from diffusers import StableDiffusionPipeline
 import torch
 from PIL import Image
