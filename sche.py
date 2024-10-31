@@ -1,4 +1,4 @@
-;'
+l;'
 from diffusers import LMSDiscreteScheduler
 
 class StableDiffusionModel:
