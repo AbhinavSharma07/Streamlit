@@ -1,5 +1,5 @@
 # Data Analysis App 📊
-
+ 
 This **Streamlit** application allows users to upload a CSV file, visualize data, and train simple machine learning models like **Linear Regression** and **K-Nearest Neighbors (KNN)**.
 
 ## Features 🚀
